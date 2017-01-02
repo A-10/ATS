@@ -1,9 +1,7 @@
-
-
 ## ATS Help Wiki
 
 ##Structure
-- Commands
+-Commands
 
 
 ##Commands
