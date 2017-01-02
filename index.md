@@ -1,10 +1,10 @@
 ## ATS Help Wiki
 
-##Structure
--Commands
+## Structure
+- Commands
 
 
-##Commands
+## Commands
 | Chat             | Console         | Description                        |
 |------------------|-----------------|------------------------------------|
 | /ticket          | ats_UserPanel   | Opens the user panel               |
