@@ -5,7 +5,7 @@
 
 
 ## Default Commands
-| Chat | Console | Description |
-| ------------- | ------------- |
-| /ticket | ats_UserPanel | Opens the user panel |
-| /ticket | ats_AdminPanel | Opens the admin panel Admin only |
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
