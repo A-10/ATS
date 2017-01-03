@@ -2,6 +2,9 @@
 
 ## Structure
 - Commands
+| Function | Arguments | Returns |
+|-----------|--------| -------- |
+| CentralDatabase.GetPool | string poolName | returns the pool object for poolName |
 
 
 ## Commands
