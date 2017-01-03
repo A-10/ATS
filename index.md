@@ -6,7 +6,7 @@
 
 ## Default Commands
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Chat | Console | Description |
+| --- | --- | --- |
+| `/ticket` | `ats_UserPanel` | Opens the user menu |
+| `/ticket` | `ats_AdminPanel` | Opens the admin menu |
