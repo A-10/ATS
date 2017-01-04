@@ -1,9 +1,5 @@
 ## ATS Help Wiki
 
-## Structure
-- Commands
-
-
 ## Commands
 
 | Chat (Default) | Console | Description |
